@@ -1,0 +1,5 @@
+# <-    !delete this line! 
+# you need to add the commands like name_of_the_game="PATH_OF_THE_GAME"
+# exemple :
+
+csgo="C:\Programmes (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo.exe"
